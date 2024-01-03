@@ -7,6 +7,7 @@ import './App.css';
 import BetaForm from './components/BetaForm';
 import Carousel from './components/Carousel';
 import AboutCards from './components/AboutCards'
+import AboutDev from './components/AboutDev'
 
 function App() {
   const images = [AppHome, AppReg, AppChallenge]
@@ -52,6 +53,7 @@ function App() {
         
       </div>
       <AboutCards/>
+      <AboutDev/>
       
       
 
