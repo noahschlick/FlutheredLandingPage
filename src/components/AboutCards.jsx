@@ -3,7 +3,7 @@ import AboutCard from './AboutCard'
 
 function AboutCards() {
   return (
-    <div className="flex justify-around w-full py-5 bg-tulip-tree-600      ">
+    <div className="md:flex justify-around w-full py-5 bg-tulip-tree-600      ">
         <AboutCard 
             title="Entertain Guess" 
             desc="Fluthered is a fun and interactive party game that combines daring challenges. It's designed to liven up any gathering, from casual hangouts with friends to wild parties."
